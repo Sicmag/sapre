@@ -1,0 +1,15 @@
+﻿fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+pydantic-settings==2.5.2
+neo4j==5.24.0
+psycopg[binary]==3.2.3
+sqlalchemy==2.0.35
+geoalchemy2==0.15.2
+osmnx==2.0.1
+networkx==3.3
+ultralytics==8.3.3
+opencv-python-headless==4.10.0.84
+easyocr==1.7.1
+python-multipart==0.0.9
+python-jose[cryptography]==3.3.0

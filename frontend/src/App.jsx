@@ -1,6 +1,6 @@
 ﻿import { useState } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://api-demo.sapre.com";
 
 export default function App() {
   const [plate, setPlate] = useState("");
